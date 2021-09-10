@@ -11,8 +11,8 @@ https://hub.fastgit.org
 ### 2 修改 hosts
 
 1. 获取 github.com 地址
-```
-https://github.com.ipaddress.com/
-```
+   ```
+   https://github.com.ipaddress.com/
+   ```
 
 2. 修改 hosts
